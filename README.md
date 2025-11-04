@@ -13,3 +13,5 @@ A simple Todo App built with HTML, CSS, and JavaScript.
 2. Open `index.html` in your browser
 3. Add tasks and manage them easily
 
+## Deployment
+Deployed on GitHub Pages: [https://github.com/farhatmondher59/AI-check.git]
